@@ -17,28 +17,49 @@ I'm a passionate full-stack developer with a deep interest in building real-worl
 
 🚀 Skills
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> </a> </p>
-🖥️ Programming & Scripting:
-Python, C
 
-HTML5, CSS3, JavaScript, TypeScript, jQuery, Bootstrap
 
-🌐 Web Frameworks:
-Django, Flask (basics)
+## 🖥️ Programming & Scripting
 
-🗃️ Database & Backend:
-MySQL, SQLite, PostgreSQL (basic)
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> Python  
+- <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/> C  
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> HTML5  
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> CSS3  
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> JavaScript  
+- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> TypeScript  
+- <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/> jQuery  
+- <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/> Bootstrap  
 
-REST APIs
+## 🌐 Web Frameworks
 
-🔧 Tools & Platforms:
-Git, GitHub
+- <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/> Django  
+- <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/> Flask (basics)
 
-VS Code, Postman, Heroku (deployment)
+## 🗃️ Database & Backend
 
-Word, PowerPoint, Excel (documentation and presentation)
+- <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/> MySQL  
+- <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/> SQLite  
+- <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/> PostgreSQL (basic)  
+- <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=apachespark&logoColor=white"/> REST APIs  
 
-📊 Data Analysis:
-SQL Queries, Data Cleaning, EDA (basic)
+## 🔧 Tools & Platforms
+
+- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> Git  
+- <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> GitHub  
+- <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> VS Code  
+- <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> Postman  
+- <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/> Heroku  
+
+- <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white"/> Word  
+- <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/> PowerPoint  
+- <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/> Excel  
+
+## 📊 Data Analysis
+
+- <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white"/> SQL Queries  
+- <img src="https://img.shields.io/badge/Data%20Cleaning-6E40C9?style=flat&logo=databricks&logoColor=white"/> Data Cleaning  
+- <img src="https://img.shields.io/badge/EDA-BE2EDD?style=flat&logo=chartdotjs&logoColor=white"/> Exploratory Data Analysis (basic)
+
 
 Projects with MySQL database analysis
 
