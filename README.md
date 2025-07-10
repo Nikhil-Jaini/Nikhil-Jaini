@@ -1,5 +1,12 @@
-👋 Hi, I’m Nikhil Jaini
-I'm a passionate full-stack developer with a deep interest in building real-world web applications, data-driven platforms, and scalable backend systems. I love exploring new technologies, solving complex coding problems, and contributing to open-source projects.
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I’m Nikhil Jaini
+</h1>
+
+<p align="center">
+  I'm a passionate full-stack developer with a deep interest in building real-world web applications, data-driven platforms, and scalable backend systems. <br/>
+  I love exploring new technologies, solving complex coding problems, and contributing to open-source projects.
+</p>
+
 
 💼 About Me
 
